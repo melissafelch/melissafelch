@@ -1,14 +1,14 @@
-<code>
-            ┌─────────────────────────────────────────────┐            
-            │      How it do, @melissafelch here!         |            
-            |         (Melissa Felch, that is!).          |            
-            |        Frontend is my happy place-          |            
-            |  (especially React and other JS Libraries.) │            
-            |        Lately I'm really into Django.       |            
-            |             Nice to meet you!               |            
-            └────────────────∩───────────∩────────────────┘            
-                             l (` ･ω ･´) l                             
-</code>
+```
+                                    ┌─────────────────────────────────────────────┐            
+                                    │      How it do, @melissafelch here!         |            
+                                    |         (Melissa Felch, that is!).          |            
+                                    |        Frontend is my happy place-          |            
+                                    |  (especially React and other JS Libraries.) │            
+                                    |        Lately I'm really into Django.       |            
+                                    |             Nice to meet you!               |            
+                                    └────────────────∩───────────∩────────────────┘            
+                                                     l (` ･ω ･´) l                             
+```
 
 <!---
 - 👋 Hi, I’m @melissafelch! (that's Melissa Felch, to all the humans out there)
